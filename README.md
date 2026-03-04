@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hey! I’m Rupesh — a data enthusiast who loves analytics, Python, and solving real-world problems with data. When I’m not diving into numbers, you’ll catch me at the gym or exploring new tech trends. Always curious, always learning.
+📧 Email: rathodrupesh785@gmail.com
 
 
 ## 🌐 Socials:
